@@ -14,7 +14,7 @@ This app is a Health Center application system , Patients getting treatment from
 4. Admins can see stats in their dashboard such as How many patients they have in their system , Chart of how many patients each doctor has And the total amount of appointments
 5. Admins can edit doctors and patients , change their image, fullname and give them admin or disable it, And They can delete doctors if needed.
 
-## Demi-Users
+## Demo-Users
 
 ### Doctor
      username: dr@gmail.com,
