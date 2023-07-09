@@ -1,6 +1,6 @@
 # HOSPIDATA React App
 
-Check here: [(https://hospidata-back.onrender.com)/](https://hospidata-back.onrender.com)]
+Check here: [(https://hospidata-back.onrender.com)/](https://hospidata-back.onrender.com)
 
 ## Description
 
